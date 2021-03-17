@@ -1,0 +1,1 @@
+# to-check-the-entered-no-is-a-prime-no-or-not
